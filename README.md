@@ -1,6 +1,6 @@
 # abstract-factory-factory
 
-Inspired by [this blog post](https://khalilstemmler.com/wiki/abstract-factory/), this utilizes `reflect-metadata` + decorators to get factory-created instances of a base class from factories that you register with a decorator.
+Inspired by [this blog post](https://khalilstemmler.com/wiki/abstract-factory/), this utilizes `reflect-metadata` + decorators to get factory-created subclass instances of a base class from factories that you register with a decorator.
 
 ## Example
 
