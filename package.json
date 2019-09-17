@@ -1,0 +1,17 @@
+{
+  "name": "abstract-factory-factory",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Julien Heller",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.7.5",
+    "typescript": "^3.6.3"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13"
+  },
+  "scripts": {
+    "build": "rm -rf dist && tsc"
+  }
+}
